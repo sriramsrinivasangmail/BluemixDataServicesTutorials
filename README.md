@@ -1,8 +1,6 @@
 # BluemixDataServicesTutorials
 samples related to Data services offered in Bluemix
 
-NOTE: this is the latest git repo.. 
-
-https://github.com/CDSLab/CDSTutorials
+NOTE: For latest go to  - https://github.com/CDSLab/CDSTutorials  (or check with Miguel Gonzalez)
 
 
